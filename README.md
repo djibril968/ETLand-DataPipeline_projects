@@ -47,3 +47,6 @@ Project Highlights:
 ![snap_01](https://github.com/user-attachments/assets/46624e1a-4c1f-422f-bc78-721a1b2e8f9c)
 proj_04](https://github.com/user-attachments/assets/d45bba22-24c8-47ae-b1b9-c980560d4f88)
 
+How does this work:
+
+Within this system/package, files are loaded from a source (a folder in this case), and a foreach loop container is used to iterate over individual files and load them into a destination (database in this instance).
